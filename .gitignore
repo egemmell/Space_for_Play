@@ -1,0 +1,9 @@
+Data/
+*.shp
+*.dbf
+*.prj
+*.shx
+*.csv
+*.Rdata
+.Rproj.user/
+.Rhistory
